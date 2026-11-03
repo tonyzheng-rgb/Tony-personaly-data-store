@@ -1,0 +1,5 @@
+name: "ui_ux_pro_max"
+title: "UI/UX Pro Max"
+description: "UI/UX design intelligence: searchable local database of 79 UI styles, 192 color palettes, 74 font pairings, UX guidelines and design-system generation across React, Vue, Tailwind, shadcn/ui and plain HTML/CSS."
+category: "Work and knowledge"
+include_in_prompt: true

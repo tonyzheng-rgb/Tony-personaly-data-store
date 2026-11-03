@@ -1,0 +1,5 @@
+name: "web_artifacts_builder"
+title: "Web Artifacts Builder"
+description: "Build elaborate multi-component web pages and apps with React, TypeScript, Tailwind CSS and shadcn/ui, bundled into a single HTML file when needed."
+category: "Work and knowledge"
+include_in_prompt: true
