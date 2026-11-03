@@ -1,0 +1,5 @@
+name: "motor_knowledge"
+title: "Motor Knowledge"
+description: "Electric motor principles and selection knowledge for stepper, BLDC and servo motors: structure, torque-speed behaviour, microstepping, six-step and FOC control, servo three-loop tuning, encoders, inertia matching, wiring and signal basics. Product-specific JSS data stays with the JSS FAE skills."
+category: "Work and knowledge"
+include_in_prompt: true

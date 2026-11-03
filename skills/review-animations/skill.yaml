@@ -1,0 +1,5 @@
+name: "review_animations"
+title: "Review Animations"
+description: "Review animation and motion code against Emil Kowalski's craft standards for web animation quality."
+category: "Work and knowledge"
+include_in_prompt: true

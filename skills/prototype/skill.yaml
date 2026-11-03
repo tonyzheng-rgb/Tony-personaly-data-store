@@ -1,0 +1,5 @@
+name: "prototype"
+title: "Prototype"
+description: "Build multiple genuinely different versions of a UI piece behind a visual picker so the user can flip through variants live and promote the one that feels right. Runs only when explicitly invoked."
+category: "Work and knowledge"
+include_in_prompt: true

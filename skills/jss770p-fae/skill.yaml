@@ -1,0 +1,5 @@
+name: "jss770p_fae"
+title: "JSS770P Servo FAE"
+description: "Troubleshoot and configure the JSS770P pulse servo drive: pulse configuration, electronic gear, homing, Modbus RS485, DI/DO, parameters and alarm codes from the full knowledge base. Also covers JSS715P, the 17-bit multi-turn magnetic encoder version on the same platform."
+category: "Work and knowledge"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "pcb_engineer"
+title: "PCB Engineer"
+description: "Circuit and PCB design guidance: schematic architecture, power trees, component selection and BOM, layout and EMC rules, KiCad formats and manufacturing checklists, with a small JSON-to-XLSX BOM generator script."
+category: "Work and knowledge"
+include_in_prompt: true
