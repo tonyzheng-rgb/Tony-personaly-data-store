@@ -1,0 +1,5 @@
+name: "solidworks_automation"
+title: "SolidWorks Automation"
+description: "SolidWorks CAD automation via Python COM scripts and an MCP toolkit: parts, holes, assemblies, engineering drawings, export and delivery review, with capability levels tracked in capabilities.yaml. Native SolidWorks operation requires Windows with SolidWorks 2024/2026 installed; on this Linux host only the knowledge base, subskills and open-format parts are usable."
+category: "Work and knowledge"
+include_in_prompt: true

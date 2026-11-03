@@ -1,0 +1,5 @@
+name: "spreadsheet_craft"
+title: "Spreadsheet Craft"
+description: "Create, edit and clean spreadsheets with live formulas, professional formatting and a mandatory recalculation check before delivery."
+category: "Work and knowledge"
+include_in_prompt: true
