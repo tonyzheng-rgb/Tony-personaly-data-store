@@ -1,0 +1,5 @@
+name: "jss_stepper_driver_manuals"
+title: "JSS Stepper Driver Manuals"
+description: "Full JSS stepper driver manual collections (open-loop 2DM2280, DM556D, DM860 series, STD3722M and closed-loop CL57R, 3HSS2260, HSS series, HSS758 plus Modbus RTU protocol): wiring, DIP current and subdivision tables, registers, alarms and troubleshooting from the official manuals."
+category: "Work and knowledge"
+include_in_prompt: true

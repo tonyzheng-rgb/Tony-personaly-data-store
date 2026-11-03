@@ -1,0 +1,5 @@
+name: "jss_ethercat_fae"
+title: "JSS EtherCAT FAE"
+description: "Troubleshoot and configure JSS EC42, EC57 and EC86 EtherCAT closed-loop stepper drivers: wiring, current DIP settings, CiA402 modes, homing methods, parameter dictionary and alarm codes, answered from the official manuals."
+category: "Work and knowledge"
+include_in_prompt: true

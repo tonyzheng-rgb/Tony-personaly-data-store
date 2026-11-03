@@ -1,0 +1,5 @@
+name: "dashi_ppt"
+title: "Dashi PPT"
+description: "Build presentation decks from 12 built-in visual themes as offline-editable HTML slide decks, with PPTX and PDF export. Uses a local Node project generator driven by a JSON goal plan; first generation installs project dependencies locally."
+category: "Work and knowledge"
+include_in_prompt: true

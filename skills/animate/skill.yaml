@@ -1,0 +1,5 @@
+name: "animate"
+title: "Animate"
+description: "Build web animations from scratch with deliberate decisions on purpose, tool, properties, easing curves, duration, interruption and exit, then write the implementation."
+category: "Work and knowledge"
+include_in_prompt: true

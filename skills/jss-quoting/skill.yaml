@@ -1,0 +1,5 @@
+name: "jss_quoting"
+title: "JSS Quoting"
+description: "Produce accurate JSS motor, inverter and engraving accessory export quotes with tax, USD conversion, quantity tiers, quote files and 3A225 compliance checks."
+category: "Work and knowledge"
+include_in_prompt: true

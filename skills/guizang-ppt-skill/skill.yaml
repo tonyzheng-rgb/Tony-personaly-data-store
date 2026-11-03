@@ -1,0 +1,5 @@
+name: "guizang_ppt_skill"
+title: "Guizang PPT (Web Slides)"
+description: "Generate single-file HTML horizontal-swipe presentation decks in two styles - editorial magazine x e-ink and Swiss International - with WebGL backgrounds, presenter view, audience sync and speaker notes, using the bundled templates, themes, layouts and validators."
+category: "Work and knowledge"
+include_in_prompt: true

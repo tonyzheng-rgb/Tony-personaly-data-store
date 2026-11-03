@@ -1,0 +1,5 @@
+name: "engineering_drawing"
+title: "Engineering Drawings"
+description: "Produce engineering drawing sheets (views, dimensions, title blocks) with the sheet API and setup guidance from the text-to-cad project."
+category: "Work and knowledge"
+include_in_prompt: true

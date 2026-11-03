@@ -1,0 +1,5 @@
+name: "apple_design"
+title: "Apple Design"
+description: "Apple's interface design and fluid, physical motion principles translated for the web: gesture-driven UI, spring animations, drag and swipe interactions, translucent materials, typography and reduced motion."
+category: "Work and knowledge"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "jss_integrated_fae"
+title: "JSS Integrated Servo FAE"
+description: "Troubleshoot and configure JSS integrated hybrid servo motors (ESS42P, ESS42R, ESS57C, ESS57P, JSS57R, JSS86): wiring, limiting resistors, Modbus RTU and CANopen, homing and alarm codes, answered from the official manuals."
+category: "Work and knowledge"
+include_in_prompt: true

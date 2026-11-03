@@ -1,0 +1,5 @@
+name: "dxf"
+title: "DXF Drawings"
+description: "Generate and edit DXF drawings and sheet layouts with generator templates and setup guidance from the text-to-cad project."
+category: "Work and knowledge"
+include_in_prompt: true

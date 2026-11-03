@@ -1,0 +1,5 @@
+name: "build123d"
+title: "build123d CAD"
+description: "Parametric CAD modeling with build123d (OpenCASCADE kernel): algebra-mode cheat sheet, selectors, booleans, fillets and HLR projection pitfalls, answered from the bundled references. Pure instruction skill with no scripts."
+category: "Work and knowledge"
+include_in_prompt: true

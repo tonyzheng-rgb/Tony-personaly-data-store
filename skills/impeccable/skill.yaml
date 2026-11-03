@@ -1,0 +1,5 @@
+name: "impeccable"
+title: "Impeccable"
+description: "Design, critique, audit and polish frontend interfaces: UX review, accessibility and performance audits, layout, typography, color and motion refinement commands, and design-system documentation (installed text-only, without the engine binary, hooks or telemetry)."
+category: "Work and knowledge"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "cad"
+title: "Text-to-CAD"
+description: "Create and edit parametric CAD parts and assemblies as build123d Python models with STEP-first export (STL, 3MF, GLB), positioning, inspection and validation guidance from the text-to-cad project. The cadgen engine runtime is not installed; see SOURCE.md."
+category: "Work and knowledge"
+include_in_prompt: true

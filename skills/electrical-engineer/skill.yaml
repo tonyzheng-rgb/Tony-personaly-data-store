@@ -1,0 +1,5 @@
+name: "electrical_engineer"
+title: "Electrical Engineer"
+description: "Industrial electrical engineering knowledge: power distribution, motor control circuits (DOL, star-delta, soft starter, VFD, protection and contactor sizing), PLC and SCADA architecture, short-circuit and voltage-drop calculations, wiring and machine safety. Localized notes for China and IEC practice are appended."
+category: "Work and knowledge"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "jss_bldc_fae"
+title: "JSS BLDC FAE"
+description: "Troubleshoot and configure JSS BLDC brushless drivers (BLDC-150L, BLDC300-6012A, BLDC-750L, BLDC-750H): wiring, DIP phase angle, speed control, RS485 Modbus variants and fault alarms, answered from the official manuals."
+category: "Work and knowledge"
+include_in_prompt: true
